@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670124252499",
+    "firebase_url": "https://signingupwithphonenumber.firebaseio.com",
+    "project_id": "signingupwithphonenumber",
+    "storage_bucket": "signingupwithphonenumber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670124252499:android:002db6d8fe7f3b449515a6",
+        "android_client_info": {
+          "package_name": "com.kumu.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670124252499-03505bjbugf20echko92sg436mljgork.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kumu.myapplication",
+            "certificate_hash": "ed5af46982e2239bb97bdb327c7fbb3f592bc500"
+          }
+        },
+        {
+          "client_id": "670124252499-9tadr3pmsttiah8j0tuk2gaaqk16t8nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSv4scAwFUgZhlUL7Gkr4DeWL92R0XCdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670124252499-9tadr3pmsttiah8j0tuk2gaaqk16t8nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
